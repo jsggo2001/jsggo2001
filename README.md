@@ -1,8 +1,8 @@
+## 백엔드 개발자가 되고싶은 정승구 입니다!!
 
-### 백엔드 개발자가 되고싶은 정승구 입니다!!
+### 블로그
 
-
-### 블로그 주소 : https://jsggo2001.tistory.com
+##### https://jsggo2001.tistory.com<br><br>
 
 ### Tech Stack
 
@@ -18,10 +18,11 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsggo2001&show_icons=true&theme=tokyonight&include_all_commits=true)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsggo2001&show_icons=true&theme=tokyonight&include_all_commits=true)</a><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsggo2001&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
