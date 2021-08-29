@@ -1,5 +1,8 @@
+
 ### 백엔드 개발자가 되고싶은 정승구 입니다!!
 
+
+### 블로그 주소 : https://jsggo2001.tistory.com
 
 ### Tech Stack
 
