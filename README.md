@@ -1,5 +1,6 @@
 ### 백엔드 개발자가 되고싶은 정승구 입니다!!
 
+
 ### Tech Stack
 
 <!-- 로고 사이트: https://shields.io/ https://simpleicons.org/ -->
@@ -12,3 +13,12 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwisaek&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
