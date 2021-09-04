@@ -2,7 +2,7 @@
 
 ### 블로그(포트폴리오)
 
-#### https://jsggo2001.tistory.com<br>
+#### https://jsggo2001.tistory.com/category/portfolio<br>
 
 ### Tech Stack
 
