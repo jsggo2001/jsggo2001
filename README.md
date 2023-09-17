@@ -1,4 +1,4 @@
-## 백엔드 개발자가 되고싶은 정승구 입니다!
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SG's%20Hub&fontSize=90)
 
 ### Tech Stack
 
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsggo2001&show_icons=true&theme=tokyonight&include_all_commits=true)</a><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsggo2001&layout=compact&theme=tokyonight)
 
