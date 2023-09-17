@@ -1,24 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SG's%20Hub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sg's%20Hub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=현재%20공부중인%20주니어%20개발자%20정승구%20입니다!&descAlignY=51&descAlign=62)
 
-### Tech Stack
+<center>
+Email : jsggo2001@naver.com<br>
+Portpolio : Notion Link<br><br>
+Language<br>
+자바<br>
+<br>
+Back Skill<br>
+스프링 부트, JPA, MySQL, Redis<br>
+<br>
+Deploy<br>
+Docker, Nginx, Amazone EC2, Amazone S3, Jenkins
 
-<!-- 로고 사이트: https://shields.io/ https://simpleicons.org/ -->
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsggo2001&layout=compact&theme=tokyonight)
+<br><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsggo2001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</center>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
+
